@@ -8,4 +8,3 @@
 * win lane
 * mikro
 * makro
-- faktor alam
